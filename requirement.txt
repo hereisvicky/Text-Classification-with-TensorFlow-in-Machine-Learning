@@ -1,0 +1,3 @@
+tensorflow==<version>  # Replace <version> with your TensorFlow version (e.g., 2.6.0)
+tensorflow-hub==<version>  # Replace <version> with your TensorFlow Hub version (e.g., 0.12.0)
+tensorflow-datasets==<version>  # Replace <version> with your TensorFlow Datasets version (e.g., 4.4.0)
